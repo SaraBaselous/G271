@@ -18,4 +18,22 @@ Dans ce dossier, l'équipe projet devra stocker tous les scripts Selenium Webdri
 	Par exemple RQ4.BF3_Editer_proprietes_fichier
 	Les noms des cas de test et des fichiers ne doivent pas comporter des caractères accentués ou des caractères spéciaux. Seules les lettres, les chiffres et le tiret bas (_) sont acceptés.
 	Il est obligatoire de commenter chaque ligne du script.  
-	
+
+Liste des contributeurs
+1/
+2/
+3/
+4/
+5/
+6/
+7/
+8/
+9/
+10/
+11/
+12/
+13/
+14/
+15/
+16/
+17/
