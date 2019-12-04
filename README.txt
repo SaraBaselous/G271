@@ -1,4 +1,4 @@
-# G271
+﻿# G271
 Dossier du projet de test Alfresco pour le groupe 271
 Dans ce dossier, l'équipe projet devra stocker tous les scripts Selenium Webdriver et Robot développés.  La structure du projet est comme suit :
 	1/ Un dossier pour stocker l'ensemble des mots clés du projet (keywords)
@@ -20,7 +20,7 @@ Dans ce dossier, l'équipe projet devra stocker tous les scripts Selenium Webdri
 	Il est obligatoire de commenter chaque ligne du script.  
 
 Liste des contributeurs
-1/
+1/Sara Baselous
 2/
 3/
 4/
