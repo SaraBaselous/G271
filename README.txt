@@ -20,7 +20,7 @@ Dans ce dossier, l'équipe projet devra stocker tous les scripts Selenium Webdri
 	Il est obligatoire de commenter chaque ligne du script.  
 
 Liste des contributeurs
-1/Sara Baselous
+1/Sara Baselous 
 2/
 3/
 4/
